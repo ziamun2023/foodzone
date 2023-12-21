@@ -6,7 +6,7 @@ export default function Header () {
     <>
     
     <header className="flex items-center justify-between">
-        <Link className="text-primary font-semibold text-2xl" href="">food zone</Link>
+        <Link className="text-primary font-semibold text-2xl uppercase" href="">food zone</Link>
   
         <nav className="flex gap-8 text-gray-500 font-semibold  items-center">
         <Link href={''}>home</Link>

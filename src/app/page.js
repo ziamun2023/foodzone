@@ -1,5 +1,6 @@
-import Link from "next/link";
+
 import Header from "./components/layout/Header";
+import Hero from "./components/layout/Hero";
 
 
 export default function Home() {
@@ -8,7 +9,10 @@ export default function Home() {
     <>
 
   <Header></Header>
-  
+  <Hero></Hero>
+
+
+
     
     
     </>
