@@ -6,7 +6,7 @@ export default function Hero (){
 
       <>
       
-      <section className="grid grid-cols-2 py-12  justify-items-center items-center">
+      <section className="grid grid-cols-2 py-12  justify-items-center items-center heroheight">
         <div className="">
         <h1 className="text-4xl font-semibold">everything is better with a <span className="text-primary">Pizza</span></h1>
             <p className="my-4 text-gray-500 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas consequatur assumenda ullam.</p>
